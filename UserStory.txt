@@ -1,0 +1,12 @@
+Als neuer Spieler möchte ich das Spiel unkompliziert starten können damit die Freude am Spiel aufrecht erhalten bleibt
+
+Als neuer Spieler möchte ich durch eine kleine textbasierte Einführung die Steuerung und Spielweise erklärt bekommen
+
+Als neuer Spieler möchte ich nicht beim Spielen durch Bugs/lags gestört werden
+
+Als Spieler möchte ich durch schöne 3D-Modelle/Texturen beeindruckt werden
+
+Als Spieler möchte ich von spannenden Rätsel gefordert werden 
+
+Als Spieler möchte ich die Story hautnah miterleben
+

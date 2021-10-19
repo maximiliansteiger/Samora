@@ -10,3 +10,16 @@ Als Spieler möchte ich von spannendem Rätsel gefordert werden
 
 Als Spieler möchte ich die Story hautnah miterleben 
 
+
+// translated 
+As a new player, I would like to be able to start the game easily so that I can continue to enjoy the game
+
+As a new player, I would like to have a little text-based introduction explaining the controls and how to play
+
+As a new player, I don't want to be bothered by bugs / lags while playing
+
+As a new player, I want to be impressed by beautiful 3D models / textures
+
+As a player, I want to be challenged by exciting puzzles
+
+As a player, I want to experience the story first hand
