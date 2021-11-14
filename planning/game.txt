@@ -36,5 +36,11 @@ crazy 8 Kreativmethode zum finden einer Insel
 	
 
 
+//TODO
+
+Strand:
+	steine (felsen) beim strand 
+	
+
 
 
